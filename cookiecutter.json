@@ -1,0 +1,8 @@
+{
+    "author_name": "Filip Wojciechowski",
+    "author_email": "fwojciec@gmail.com",
+    "package_name": "python_project_template",
+    "package_version": "0.0.1",
+    "package_description": "My generic template for python projects.",
+    "package_url": "https://github.com/fwojciec/python-project-template"
+}
